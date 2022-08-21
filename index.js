@@ -4,5 +4,5 @@
  */
 
 exports.handler = async(event, context) => {
-  return "Hello World\n";
+  return "Hello World";
 };
